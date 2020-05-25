@@ -75,3 +75,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Usage
+To use Music_hub, please had on over to this link(https://cryptic-brushlands-76350.herokuapp.com/), create an account and log in. After doing so, you'll be able to submit lyrics of your choice and recieve the nuanced meaning and translattions. 
+
+![image](https://github.com/FentonA/music-hub/blob/master/Screenshot_041420_093344_PM.jpg)
+
+## Authors
+Alf Fenton
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
