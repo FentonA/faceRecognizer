@@ -76,7 +76,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ## Usage
-To use Music_hub, please had on over to this link(https://smart-cerebrum.herokuapp.com/), create an account and log in. After doing so, you'll be able to submit lyrics of your choice and recieve the nuanced meaning and translattions. 
+To use Face Recognizer, please had on over to this link(https://smart-cerebrum.herokuapp.com/), create an account and log in. After doing so, you'll be able to paste in your pictures with a link and the application will recognze any faces within the picture as well keep score. 
 
 ![image](https://github.com/FentonA/faceRecognizer/blob/master/Screenshot_041420_094314_PM.jpg)
 ![image](https://github.com/FentonA/faceRecognizer/blob/master/Screenshot_041420_094449_PM.jpg)
