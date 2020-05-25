@@ -86,5 +86,4 @@ To use Face Recognizer, please had on over to this link(https://smart-cerebrum.h
 ## Authors
 Alf Fenton
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
