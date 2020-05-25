@@ -82,6 +82,7 @@ To use Music_hub, please had on over to this link(https://cryptic-brushlands-763
 
 ![image](https://github.com/FentonA/faceRecognizer/blob/master/Screenshot_041420_094314_PM.jpg)
 ![image](https://github.com/FentonA/faceRecognizer/blob/master/Screenshot_041420_094449_PM.jpg)
+![image](https://github.com/FentonA/faceRecognizer/blob/master/Screenshot_041420_095030_PM.jpg)
 
 
 ## Authors
