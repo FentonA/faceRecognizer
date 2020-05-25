@@ -2,8 +2,6 @@
 # Face Recognizer 
 Built with Javascript and React.js. this project makes use of the 'Clarifai' Api to recognize faces on any picture.
 
-### Screenshots:
-
 ### User Page:
 
 
