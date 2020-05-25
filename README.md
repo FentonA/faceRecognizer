@@ -4,6 +4,9 @@ Built with Javascript and React.js. this project makes use of the 'Clarifai' Api
 
 ### Screenshots:
 
+### User Page:
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
